@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="TSDBViewer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TSDBViewer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TSDBViewer.jar">
+        <element id="module-output" name="TSDBViewer" />
+      </element>
+    </root>
+  </artifact>
+</component>
